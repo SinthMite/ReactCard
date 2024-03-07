@@ -1,6 +1,8 @@
 import './App.css';
 import illustration from './assets/images/illustration-article.svg';
 import avatar from './assets/images/image-avatar.webp';
+
+
 function App() {
   return (
     <section className="section">
